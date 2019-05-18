@@ -18,7 +18,7 @@ tagline:             DevOps Blog
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  지혜와 평원으로 가는 길
+  지혜와 평온으로 가는 길
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
