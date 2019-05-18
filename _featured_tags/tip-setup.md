@@ -4,5 +4,5 @@ title: Setup
 slug: setup
 category: tip
 menu: false
-order: 1
+order: 11
 ---
