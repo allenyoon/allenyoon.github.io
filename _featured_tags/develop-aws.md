@@ -4,6 +4,6 @@ title: AWS
 slug: aws
 category: develop
 menu: false
-order: 26
+order: 27
 header-img: "/img/aws-logo.png"
 ---
