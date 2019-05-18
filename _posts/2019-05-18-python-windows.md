@@ -3,7 +3,8 @@ layout: post
 title: "Python 개발환경 설정"
 subtitle:   "Windows Python 개발 환경 설정"
 date: 2019-04-22 20:00:00 -0400
-categories: tip
+categories: develop
+tags: Python Setup
 ---
 
 ## Windows 설치 정보
