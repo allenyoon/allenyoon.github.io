@@ -10,7 +10,7 @@ url:                 https://allenyoon.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             "https://allenyoon.github.io"
+baseurl:             ""
 
 # A very short description of your page
 tagline:             Flux DevOps Blog
@@ -50,7 +50,7 @@ google_analytics:    UA-92346434-1
 disqus_shortname:    allenyoon
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2017. by allenyoon'
+copyright:           '&copy; 2019. by allenyoon'
 
 # Format of the permalinks
 permalink:           pretty
