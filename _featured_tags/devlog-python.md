@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Jekyll
-slug: jekyll
+title: python
+slug: ml
 category: devlog
 menu: false
-order: 3
+order: 1
 ---
