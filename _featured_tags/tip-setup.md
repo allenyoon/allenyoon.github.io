@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: python
-slug: ml
-category: devlog
+title: Setup
+slug: setup
+category: tip
 menu: false
 order: 1
 ---

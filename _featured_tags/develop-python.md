@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Book
-slug: book
-category: review
+title: Python
+slug: python
+category: develop
 menu: false
 order: 1
 ---

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Infra
-slug: infra
-category: devlog
+title: NoSQL
+slug: nosql
+category: develop
 menu: false
 order: 2
 ---

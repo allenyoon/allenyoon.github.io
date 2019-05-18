@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Data
-slug: data
-category: devlog
+title: Java
+slug: java
+category: develop
 menu: false
 order: 2
 ---

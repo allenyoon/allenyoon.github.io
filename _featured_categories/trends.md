@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Documents
-slug: doc
+title: Tech Trends
+slug: trends
 menu: true
 submenu: true
 order: 7
 description: >
-  개발관련 문서
+  기술 트렌드 
 ---
